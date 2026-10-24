@@ -1,0 +1,26 @@
+{
+  "name": "dev-timekeeper",
+  "displayName": "Dev Timekeeper",
+  "description": "Private, offline-first coding time tracker with real-time webview dashboard & PNG share card generator.",
+  "version": "1.2.0",
+  "license": "MIT",
+  "keywords": [
+    "time tracker",
+    "coding metrics",
+    "dashboard",
+    "offline time tracker",
+    "wakatime alternative",
+    "developer productivity",
+    "analytics",
+    "active time"
+  ],
+  "categories": [
+    "Visualization",
+    "Other"
+  ],
+  "bugs": {
+    "url": "https://github.com/debjyoti71/dev-timekeeper/issues"
+  },
+  "homepage": "https://github.com/debjyoti71/dev-timekeeper#readme",
+  "publisher": "DebjyotiGhosh"
+}
